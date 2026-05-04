@@ -58,6 +58,7 @@ streamlit run app.py
 ```
 http://<IP Address>:8501
 ```
+<img width="1400" height="668" alt="image" src="https://github.com/user-attachments/assets/0ffb1440-c7b6-47b7-84bd-64d9504625fe" />
 
 ---
 
