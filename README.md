@@ -43,8 +43,8 @@ pip install streamlit reportlab
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Charans97/StreamArchitect.git
+cd StreamArchitect
 ```
 
 2. Run the application:
@@ -56,7 +56,7 @@ streamlit run app.py
 3. Open the browser (if not auto-opened):
 
 ```
-http://localhost:8501
+http://<IP Address>:8501
 ```
 
 ---
